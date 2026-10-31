@@ -1,3 +1,3 @@
-# Hi, 👋 I am Joon
-
-<sub>junior developer</sub>
+<p align="center">
+  <img src="assets/banner.png" alt="Hi, I am Joon - junior developer" width="100%" />
+</p>
